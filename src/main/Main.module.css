@@ -1,0 +1,17 @@
+.mainBlock{
+   min-height: 80vh;
+   background-color: #e3c0c0;
+}
+
+.text{
+   width: 300px;
+   background-color: #dcdada;
+   padding: 20px;
+}
+
+.photo{
+width: 300px;
+height:400px;
+   background-color:#dcdada ;
+}
+

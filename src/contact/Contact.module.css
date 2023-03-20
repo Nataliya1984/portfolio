@@ -1,0 +1,28 @@
+.contactBlock {
+    min-height: 50vh;
+    background-color: #c8f3ed;
+}
+
+.contactContainer{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title{
+    background-color: #dcd9d9;
+}
+
+.btn {
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: black;
+}

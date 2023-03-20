@@ -1,0 +1,9 @@
+.form{
+    display: flex;
+    flex-flow: column;
+    width: 280px;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+}
+
